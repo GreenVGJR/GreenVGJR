@@ -53,3 +53,12 @@ ___
     <img src="https://img.shields.io/tokei/lines/github/GreenVGJR/lti-listapi?color=orange&label=Total Lines" alt="Image"/>
   </a>
 </div>
+
+## Connections
+
+[![Reddit](https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&color=gray)](https://www.reddit.com/u/GreenVGJR)
+[![Twitter](https://img.shields.io/badge/Twitter-aqua?style=for-the-badge&logo=twitter&color=blue)](https://twitter.com/Green_VGJR)
+[![YouTube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&color=red)](https://youtube.com/channel/UCdlsEyCqufjpgB4JRb8n9qA)
+[![SoundCloud](https://img.shields.io/badge/Soundcloud-orange?style=for-the-badge&logo=soundcloud&color=gray)](https://soundcloud.com/greenvgjr)
+[![Spotify](https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify&color=green)](https://open.spotify.com/user/uz2gmmfdw7gxcofnb3843pju5)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&color=black)](https://www.instagram.com/green._vgjr)
