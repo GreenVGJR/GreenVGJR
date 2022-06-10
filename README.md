@@ -13,6 +13,7 @@ ___
 
 [![Views](https://komarev.com/ghpvc/?username=GreenVGJR&color=yellow)](https://github.com/GreenVGJR)
 
+Discord: `Green#2754`
 
 ## Repository
 
