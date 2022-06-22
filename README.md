@@ -15,6 +15,8 @@ ___
 
 Discord: `Green#2754`
 
+___
+
 ## Repository
 
 <div align="center">
@@ -63,3 +65,11 @@ Discord: `Green#2754`
 [![SoundCloud](https://img.shields.io/badge/Soundcloud-orange?style=for-the-badge&logo=soundcloud&color=gray)](https://soundcloud.com/greenvgjr)
 [![Spotify](https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify&color=green)](https://open.spotify.com/user/uz2gmmfdw7gxcofnb3843pju5)
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&color=black)](https://www.instagram.com/green._vgjr)
+
+___
+
+<div align="center">
+  <a href="https://dsc.gg/codes">
+    <img src="https://discordapp.com/api/guilds/678295162555858951/widget.png?style=shield" alt="Server"/>
+  </a>
+</div>
