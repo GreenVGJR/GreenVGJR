@@ -62,14 +62,14 @@ ___
 [![Reddit](https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&color=gray)](https://www.reddit.com/u/GreenVGJR)
 [![Twitter](https://img.shields.io/badge/Twitter-aqua?style=for-the-badge&logo=twitter&color=blue)](https://twitter.com/Green_VGJR)
 [![YouTube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&color=red)](https://youtube.com/channel/UCdlsEyCqufjpgB4JRb8n9qA)
-[![SoundCloud](https://img.shields.io/badge/Soundcloud-orange?style=for-the-badge&logo=soundcloud&color=gray)](https://soundcloud.com/greenvgjr)
-[![Spotify](https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify&color=green)](https://open.spotify.com/user/uz2gmmfdw7gxcofnb3843pju5)
+[![SoundCloud](https://img.shields.io/badge/Soundcloud-orange?style=for-the-badge&logo=soundcloud&color=ffa54a)](https://soundcloud.com/greenvgjr)
+[![Spotify](https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify&color=9bff9b)](https://open.spotify.com/user/uz2gmmfdw7gxcofnb3843pju5)
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&color=black)](https://www.instagram.com/green._vgjr)
 
 ___
 
 <div align="center">
   <a href="https://dsc.gg/codes">
-    <img src="https://discordapp.com/api/guilds/678295162555858951/widget.png?style=shield" alt="Server"/>
+    <img src="https://discordapp.com/api/guilds/678295162555858951/widget.png?style=banner2" alt="Server"/>
   </a>
 </div>
