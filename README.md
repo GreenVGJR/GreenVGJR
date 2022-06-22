@@ -38,7 +38,7 @@ ___
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/GreenVGJR/amc-aoijs/archive/refs/heads/handler-v5.zip">
+  <a href="https://github.com/GreenVGJR/amc-aoijs/archive/refs/heads/handler-v5.2.zip">
     <img src="https://img.shields.io/badge/Download (Default)-gray?style=for-the-badge&logo=github&color=black" alt="Image"/>
   </a>
 </div>
