@@ -15,6 +15,10 @@ ___
 
 Discord: `Green#2754`
 
+🇮🇩 **Gak tau mau nulis apaan, yang penting ada**
+
+🇺🇲 **Idk what should i write here, atleast it has**
+
 ___
 
 ## Repository
