@@ -6,7 +6,7 @@
 
 ___
 
-[![Views](https://komarev.com/ghpvc/?username=GreenVGJR&color=yellow)](https://github.com/GreenVGJR)
+[![Views](https://komarev.com/ghpvc/?username=GreenVGJR&color=green)](https://github.com/GreenVGJR)
 
 Discord: `Green#2754` (`681124961494237442`)
 ___
@@ -20,16 +20,12 @@ ___
 </div>
 <div align="center">
   <a href="https://github.com/GreenVGJR/amc-aoijs">
-    <img src="https://img.shields.io/github/languages/code-size/GreenVGJR/amc-aoijs?color=purple&label=Code Size" alt="Image" loading="lazy"/>
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/GreenVGJR/amc-aoijs">
     <img src="https://img.shields.io/github/repo-size/GreenVGJR/amc-aoijs?color=blue&label=Repo Size" alt="Image" loading="lazy"/>
   </a>
- <a href="https://github.com/GreenVGJR/amc-aoijs">
-    <img src="https://img.shields.io/tokei/lines/github/GreenVGJR/amc-aoijs?color=orange&label=Total Lines" alt="Image" loading="lazy"/>
+  <a href="https://github.com/GreenVGJR/amc-aoijs">
+    <img src="https://img.shields.io/github/languages/code-size/GreenVGJR/amc-aoijs?color=purple&label=Code Size" alt="Image" loading="lazy"/>
   </a>
+
 </div>
 <div align="center">
   <a href="https://github.com/GreenVGJR/amc-aoijs/archive/refs/heads/handler-v5.2.zip">
@@ -52,9 +48,14 @@ ___
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=greenvgjr&repo=src-2langpr&theme=dark" alt="Image" loading="lazy"/>
   </a>
 </div>
+<div align="center">
+  <a href="https://github.com/GreenVGJR/amc-aoijs">
+    <img src="https://img.shields.io/github/repo-size/GreenVGJR/src-2langpr?color=blue&label=Repo Size" alt="Image" loading="lazy"/>
+  </a>
+</div>
 
 
-## Support meh (Local Only)
+## Support meh (Local Only - ID)
 https://trakteer.id/vgjr
 
 ## Connections
@@ -73,8 +74,5 @@ ___
   </a>
   <a href="https://dsc.gg/codes">
     <img src="https://discordapp.com/api/guilds/678295162555858951/widget.png?style=banner3" alt="Server Basement" loading="lazy"/>
-  </a>
-  <a href="https://discord.gg/6TMXxKPuBT">
-    <img src="https://discordapp.com/api/guilds/784069024257671178/widget.png?style=banner3" alt="Server Cloud Hosting" loading="lazy"/>
   </a>
 </div>
