@@ -56,7 +56,9 @@ ___
 
 
 ## Support meh (Local Only - ID)
-https://trakteer.id/vgjr
+- [Trakteer.id](https://trakteer.id/vgjr)
+- Saweria (Soon)
+- QRIS Dynamic (Soon)
 
 ## Connections
 
