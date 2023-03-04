@@ -69,7 +69,9 @@ ___
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&color=black)](https://www.instagram.com/green._vgjr)
 
 ___
-
+<div align="center">
+<img src="https://cdn.discordapp.com/discovery-splashes/678295162555858951/8370df74c4a2c8a9ab52418f358d0363.jpg?size=512" alt="Splash GhostRealms" loading="lazy"/>
+</div>
 <div align="center">
   <a href="https://discord.gg/nssKV4fsn2">
     <img src="https://discordapp.com/api/guilds/934070836619518082/widget.png?style=banner3" alt="Server Cloud Team (Website)" loading="lazy"/>
