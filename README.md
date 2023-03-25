@@ -56,6 +56,8 @@
 ## Support meh (Local Only - ID)
 - [Trakteer](https://trakteer.id/vgjr)
 
+<img src="https://cdn.discordapp.com/attachments/1055832957916557332/1089206745521463498/New_Project_282_BE5BC1F.png" alt="Banner" loading="lazy"/>
+
 ## Connections
 
 [![Reddit](https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&color=gray)](https://www.reddit.com/u/GreenVGJR)
@@ -63,8 +65,6 @@
 [![SoundCloud](https://img.shields.io/badge/Soundcloud-orange?style=for-the-badge&logo=soundcloud&color=ffa54a)](https://soundcloud.com/greenvgjr)
 [![Spotify](https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify&color=9bff9b)](https://open.spotify.com/user/uz2gmmfdw7gxcofnb3843pju5)
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&color=black)](https://www.instagram.com/green._vgjr)
-
-YouTube, Twitch, Pinterest, Xbox, Steam
 
 ## Find Me.
 
