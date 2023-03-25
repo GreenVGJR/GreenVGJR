@@ -64,7 +64,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify&color=9bff9b)](https://open.spotify.com/user/uz2gmmfdw7gxcofnb3843pju5)
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&color=black)](https://www.instagram.com/green._vgjr)
 
-YouTube, Twitch, Pinterest, Xbox
+YouTube, Twitch, Pinterest, Xbox, Steam
 
 ## Find Me.
 
