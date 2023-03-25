@@ -1,15 +1,14 @@
-<div align="center">
+  <div align="center">
+  <p><b><h2>Green#2754</h2></b></p>
   <a href="https://open.spotify.com/playlist/2OXnOc6aF0pAINuPXed2c9">
     <img src="https://img.shields.io/badge/Collection Of Music %22VGJR%22-gray?style=for-the-badge&logo=spotify" alt="My Playlist" loading="lazy"/>
   </a>
 </div>
-
-___
-
-[![Views](https://komarev.com/ghpvc/?username=GreenVGJR&color=green)](https://github.com/GreenVGJR)
-
-Discord: `Green#2754` (`681124961494237442`)
-___
+<div align="center">
+  <a href="https://github.com/GreenVGJR">
+    <img src="https://komarev.com/ghpvc/?username=GreenVGJR&color=green" alt="Image" loading="lazy"/>
+  </a>
+</div>
 
 ## Repository
 
@@ -25,7 +24,6 @@ ___
   <a href="https://github.com/GreenVGJR/amc-aoijs">
     <img src="https://img.shields.io/github/languages/code-size/GreenVGJR/amc-aoijs?color=purple&label=Code Size" alt="Image" loading="lazy"/>
   </a>
-
 </div>
 <div align="center">
   <a href="https://github.com/GreenVGJR/amc-aoijs/archive/refs/heads/handler-v5.2.zip">
@@ -56,9 +54,7 @@ ___
 
 
 ## Support meh (Local Only - ID)
-- [Trakteer.id](https://trakteer.id/vgjr)
-- Saweria (Soon)
-- QRIS Dynamic (Soon)
+- [Trakteer](https://trakteer.id/vgjr)
 
 ## Connections
 
@@ -68,15 +64,22 @@ ___
 [![Spotify](https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify&color=9bff9b)](https://open.spotify.com/user/uz2gmmfdw7gxcofnb3843pju5)
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&color=black)](https://www.instagram.com/green._vgjr)
 
-___
+YouTube, Twitch, Pinterest, Xbox
+
+## Find Me.
+
 <div align="center">
-<img src="https://cdn.discordapp.com/discovery-splashes/678295162555858951/8370df74c4a2c8a9ab52418f358d0363.jpg?size=512" alt="Splash GhostRealms" loading="lazy"/>
-</div>
-<div align="center">
-  <a href="https://discord.gg/nssKV4fsn2">
-    <img src="https://discordapp.com/api/guilds/934070836619518082/widget.png?style=banner3" alt="Server Cloud Team (Website)" loading="lazy"/>
+<img src="https://cdn.discordapp.com/attachments/1089006428808826983/1089024008390971422/network_list_small_header_GhostCo..png" alt="Banner GhostRealm" loading="lazy"/>
+<a href="https://discord.gg/developers">
+    <img src="https://discordapp.com/api/guilds/678295162555858951/widget.png?style=banner3" alt="Server GhostRealm" loading="lazy"/>
   </a>
-  <a href="https://dsc.gg/codes">
-    <img src="https://discordapp.com/api/guilds/678295162555858951/widget.png?style=banner3" alt="Server Basement" loading="lazy"/>
+</div>
+
+___
+
+<div align="center">
+<img src="https://cdn.discordapp.com/attachments/1089006882364080259/1089031230558838845/network_list_small_header_GhostCo._LABS.png" alt="Banner GhostLab" loading="lazy"/>
+<a href="https://discord.gg/QHgGqZjRWY">
+    <img src="https://discordapp.com/api/guilds/797833180936667153/widget.png?style=banner3" alt="Server GhostLab" loading="lazy"/>
   </a>
 </div>
