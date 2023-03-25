@@ -71,7 +71,7 @@ YouTube, Twitch, Pinterest, Xbox
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/1089006428808826983/1089024008390971422/network_list_small_header_GhostCo..png" alt="Banner GhostRealm" loading="lazy"/>
 <a href="https://discord.gg/developers">
-    <img src="https://discordapp.com/api/guilds/678295162555858951/widget.png?style=banner3" alt="Server GhostRealm" loading="lazy"/>
+    <img src="https://discordapp.com/api/guilds/678295162555858951/widget.png?style=banner2" alt="Server GhostRealm" loading="lazy"/>
   </a>
 </div>
 
@@ -80,6 +80,6 @@ ___
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/1089006882364080259/1089031230558838845/network_list_small_header_GhostCo._LABS.png" alt="Banner GhostLab" loading="lazy"/>
 <a href="https://discord.gg/QHgGqZjRWY">
-    <img src="https://discordapp.com/api/guilds/797833180936667153/widget.png?style=banner3" alt="Server GhostLab" loading="lazy"/>
+    <img src="https://discordapp.com/api/guilds/797833180936667153/widget.png?style=banner2" alt="Server GhostLab" loading="lazy"/>
   </a>
 </div>
