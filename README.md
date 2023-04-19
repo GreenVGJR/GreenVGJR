@@ -78,7 +78,7 @@
 ___
 
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1089006882364080259/1089031230558838845/network_list_small_header_GhostCo._LABS.png" alt="Banner GhostLab" loading="lazy"/>
+<img src="https://cdn.discordapp.com/attachments/1089006882364080259/1096833085254930482/GhostLabs_official_header.png" alt="Banner GhostLab" loading="lazy"/>
 <a href="https://discord.gg/QHgGqZjRWY">
     <img src="https://discordapp.com/api/guilds/797833180936667153/widget.png?style=banner2" alt="Server GhostLab" loading="lazy"/>
   </a>
