@@ -32,16 +32,6 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/GreenVGJR/lti-listapi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=greenvgjr&repo=lti-listapi&theme=dark" alt="Image" loading="lazy"/>
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/GreenVGJR/lti-listapi">
-    <img src="https://img.shields.io/github/repo-size/GreenVGJR/lti-listapi?color=blue&label=Repo Size" alt="Image" loading="lazy"/>
-  </a>
-</div>
-<div align="center">
   <a href="https://github.com/GreenVGJR/src-2langpr">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=greenvgjr&repo=src-2langpr&theme=dark" alt="Image" loading="lazy"/>
   </a>
@@ -66,7 +56,8 @@
 [![Spotify](https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify&color=9bff9b)](https://open.spotify.com/user/uz2gmmfdw7gxcofnb3843pju5)
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&color=black)](https://www.instagram.com/green._vgjr)
 
-## Find Me.
+
+## I'm hereeeee
 
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/1089006428808826983/1089024008390971422/network_list_small_header_GhostCo..png" alt="Banner GhostRealm" loading="lazy"/>
