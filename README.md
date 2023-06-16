@@ -1,5 +1,5 @@
   <div align="center">
-  <p><b><h2>Green#2754</h2></b></p>
+  <p><b><h2>greenvgjr</h2></b></p>
   <a href="https://open.spotify.com/playlist/2OXnOc6aF0pAINuPXed2c9">
     <img src="https://img.shields.io/badge/Collection Of Music %22VGJR%22-gray?style=for-the-badge&logo=spotify" alt="My Playlist" loading="lazy"/>
   </a>
