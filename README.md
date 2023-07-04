@@ -1,4 +1,9 @@
-<img src="https://cdn.discordapp.com/attachments/1055832957916557332/1125849191684513822/New_Project_329_A181172.png" alt="Banner" loading="lazy"/>
+<div align="center">
+  <a href="https://github.com/GreenVGJR">
+    <img src="https://komarev.com/ghpvc/?username=GreenVGJR&color=green" alt="Image" loading="lazy"/>
+    <img src="https://cdn.discordapp.com/attachments/1055832957916557332/1125849191684513822/New_Project_329_A181172.png?log=true" alt="Banner" loading="lazy"/>
+  </a>
+</div>
 
 ## Interest?
 
