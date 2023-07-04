@@ -27,5 +27,5 @@ ___
 
 |[Twitter](https://twitter.com/Green_VGJR)|[Instagram](https://instagram.com/green._vgjr)|[Reddit](https://www.reddit.com/u/GreenVGJR)|[Spotify](https://open.spotify.com/user/uz2gmmfdw7gxcofnb3843pju5)|[SoundCloud](https://soundcloud.com/greenvgjr)|
 |:-:|:-:|:-:|:-:|:-:|
-|[YouTube](https://www.youtube.com/channel/UCdlsEyCqufjpgB4JRb8n9qA)|[Steam](https://steamcommunity.com/profiles/76561199079533730)|[Roblox](https://www.roblox.com/users/433337308/profile)|[Twitch](https://twitch.tv/greenvgjr)|[Discord](https://discord.com/users/681124961494237442)|
+|[YouTube](https://www.youtube.com/@greenvgjr)|[Steam](https://steamcommunity.com/profiles/76561199079533730)|[Roblox](https://www.roblox.com/users/433337308/profile)|[Twitch](https://twitch.tv/greenvgjr)|[Discord](https://discord.com/users/681124961494237442)|
 |WiFi Map|Pixiv|Telegram|\-|\-|
