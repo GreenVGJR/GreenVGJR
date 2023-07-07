@@ -5,24 +5,6 @@
   </a>
 </div>
 
-## Interest?
-
-<div align="center">
-<img src="https://cdn.discordapp.com/attachments/1089006428808826983/1089024008390971422/network_list_small_header_GhostCo..png" alt="Banner GhostRealm" loading="lazy"/>
-<a href="https://discord.gg/developers">
-    <img src="https://discordapp.com/api/guilds/678295162555858951/widget.png?style=banner2" alt="Server GhostRealm" loading="lazy"/>
-  </a>
-</div>
-
-___
-
-<div align="center">
-<img src="https://cdn.discordapp.com/attachments/1089006882364080259/1096833085254930482/GhostLabs_official_header.png" alt="Banner GhostLab" loading="lazy"/>
-<a href="https://discord.gg/QHgGqZjRWY">
-    <img src="https://discordapp.com/api/guilds/797833180936667153/widget.png?style=banner2" alt="Server GhostLab" loading="lazy"/>
-  </a>
-</div>
-
 ## Connections
 
 |[Twitter](https://twitter.com/Green_VGJR)|[Instagram](https://instagram.com/green._vgjr)|[Reddit](https://www.reddit.com/u/GreenVGJR)|[Spotify](https://open.spotify.com/user/uz2gmmfdw7gxcofnb3843pju5)|[SoundCloud](https://soundcloud.com/greenvgjr)|
