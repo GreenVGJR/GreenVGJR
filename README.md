@@ -1,7 +1,8 @@
 <div align="center">
   <a href="https://github.com/GreenVGJR">
     <img src="https://komarev.com/ghpvc/?username=GreenVGJR&color=green" alt="Image" loading="lazy"/>
-    <img src="https://cdn.discordapp.com/attachments/1055832957916557332/1125849191684513822/New_Project_329_A181172.png?log=true" alt="Banner" loading="lazy"/>
+    <img src="https://cdn.discordapp.com/attachments/1055832957916557332/1125849191684513822/New_Project_329_A181172.png" alt="Banner" loading="lazy"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=greenvgjr&hide=css&layout=compact&theme=dark&hide_border=true&cache_seconds=1800"/>
   </a>
 </div>
 
@@ -10,4 +11,5 @@
 |[Twitter](https://twitter.com/Green_VGJR)|[Instagram](https://instagram.com/green._vgjr)|[Reddit](https://www.reddit.com/u/GreenVGJR)|[Spotify](https://open.spotify.com/user/uz2gmmfdw7gxcofnb3843pju5)|[SoundCloud](https://soundcloud.com/greenvgjr)|
 |:-:|:-:|:-:|:-:|:-:|
 |[YouTube](https://www.youtube.com/@greenvgjr)|[Steam](https://steamcommunity.com/profiles/76561199079533730)|[Roblox](https://www.roblox.com/users/433337308/profile)|[Twitch](https://twitch.tv/greenvgjr)|[Discord](https://discord.com/users/681124961494237442)|
-|[Threads](https://threads.net/green._vgjr)|Pixiv|[Telegram](https://t.me/greenvgjr)|[Trakteer](https://trakteer.id/vgjr)|\-|
+|[Threads](https://threads.net/green._vgjr)|[Pixiv](https://www.pixiv.net/en/users/73613724)|[Telegram](https://t.me/greenvgjr)|[Trakteer](https://trakteer.id/vgjr)|[PixAI](https://pixai.art/@greenvgjr)|
+|v0.dev|Prodia|Saweria|\-|\-|
