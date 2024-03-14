@@ -1,7 +1,6 @@
 <div align="center">
   <a href="https://github.com/GreenVGJR">
-    <img src="https://komarev.com/ghpvc/?username=GreenVGJR&color=green" alt="Image" loading="lazy"/>
-    <img src="https://cdn.discordapp.com/attachments/1055832957916557332/1125849191684513822/New_Project_329_A181172.png" alt="Banner" loading="lazy"/>
+    <img src="https://komarev.com/ghpvc/?username=GreenVGJR&color=green" alt="Image" loading="lazy"/><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=greenvgjr&hide=css&layout=compact&theme=dark&hide_border=true&cache_seconds=1800"/>
   </a>
 </div>
