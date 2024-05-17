@@ -11,4 +11,4 @@
 |:-:|:-:|:-:|:-:|:-:|
 |[YouTube](https://www.youtube.com/@greenvgjr)|[Steam](https://steamcommunity.com/profiles/76561199079533730)|[Roblox](https://www.roblox.com/users/433337308/profile)|[Twitch](https://twitch.tv/greenvgjr)|[Discord](https://discord.com/users/681124961494237442)|
 |[Threads](https://threads.net/green._vgjr)|[Pixiv](https://www.pixiv.net/en/users/73613724)|[Telegram](https://t.me/greenvgjr)|[Trakteer](https://trakteer.id/vgjr)|[PixAI](https://pixai.art/@greenvgjr)|
-|v0.dev|Prodia|Saweria|\-|\-|
+|[v0.dev](https://v0.dev/greenvgjr)|\-|[Saweria](https://saweria.co/vgjr)|\-|\-|
