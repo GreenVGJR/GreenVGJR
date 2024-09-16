@@ -24,6 +24,6 @@ https://vgjr.vercel.app/api/
 | Repository | Preview | Type |
 |------------|-------------|-------------|
 | [![VGJR Radio](https://github-readme-stats.vercel.app/api/pin/?username=greenvgjr&repo=vgjradio&theme=dark)](https://github.com/GreenVGJR/vgjradio) | <img src="https://github.com/user-attachments/assets/ec253979-b26a-4a8b-b83b-8615f1604908" alt="Preview" width="512"/> | School |
-| [![Vouchify](https://github-readme-stats.vercel.app/api/pin/?username=greenvgjr&repo=vouchify&theme=dark)](https://github.com/GreenVGJR/vouchify) | <img src="https://github.com/user-attachments/assets/cc402d77-5ec0-4a87-a774-7ba0ed3429aa" alt="Preview" width="512"/> | Contribution |
+| [![Vouchify](https://github-readme-stats.vercel.app/api/pin/?username=greenvgjr&repo=vouchify&theme=dark)](https://github.com/GreenVGJR/vouchify) | <img src="https://github.com/user-attachments/assets/cc402d77-5ec0-4a87-a774-7ba0ed3429aa" alt="Preview" width="512"/> | School |
 | [![Polling](https://github-readme-stats.vercel.app/api/pin/?username=DefinetlyNotRay&repo=Polling-Web-App&theme=dark)](https://github.com/DefinetlyNotRay/Polling-Web-App) | <img src="https://github.com/user-attachments/assets/51f5289f-25c1-45af-9c2d-2e3f942ed846" alt="Preview" width="512"/> | Contribution |
 | [![Vesa Socmed](https://github-readme-stats.vercel.app/api/pin/?username=greenvgjr&repo=vesa-socmed&theme=dark)](https://github.com/GreenVGJR/vesa-socmed) | <img src="https://github.com/user-attachments/assets/65d11856-a739-44d7-b97f-c740624d448c" alt="Preview" width="512"/> | School |
