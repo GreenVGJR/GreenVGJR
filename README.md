@@ -35,7 +35,7 @@ https://vgjr.vercel.app/
 
 </details>
 
-<div align="center">
+<div align="right">
   <a href="https://github.com/GreenVGJR">
     <img src="https://komarev.com/ghpvc/?username=GreenVGJR&color=green" alt="Image" loading="lazy"/><br>
   </a>
