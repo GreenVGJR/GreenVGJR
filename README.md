@@ -1,7 +1,6 @@
 <div align="center">
   <a href="https://github.com/GreenVGJR">
-    <img src="https://komarev.com/ghpvc/?username=GreenVGJR&color=green" alt="Image" loading="lazy"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=greenvgjr&hide=css&layout=compact&theme=dark&hide_border=true&cache_seconds=1800"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=greenvgjr&hide=css&layout=compact&theme=dark&hide_border=true&cache_seconds=1800"/>
   </a>
 </div>
 
@@ -36,3 +35,8 @@ https://vgjr.vercel.app/
 
 </details>
 
+<div align="center">
+  <a href="https://github.com/GreenVGJR">
+    <img src="https://komarev.com/ghpvc/?username=GreenVGJR&color=green" alt="Image" loading="lazy"/><br>
+  </a>
+</div>
