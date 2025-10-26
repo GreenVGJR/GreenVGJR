@@ -14,7 +14,7 @@ ____________
 
 <div align="center">
 
-<h3><b>🌐 For Testing Things / 🌠 Bio</b></h3>
-https://vgjr.vercel.app / https://uzi.rip/vgjr
+<h3><b>🌐 For Testing Things</b></h3>
+https://vgjr.vercel.app
 
 </div>
